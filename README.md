@@ -3,8 +3,10 @@
  
  #### Pre-Requisite
  * Install Jupyter Notebook
- 1.python -m pip install --upgrade pip
- 2.python -m pip install jupyter
+ 
+ 1. python -m pip install --upgrade pip
+
+ 2. python -m pip install jupyter
  
  #### launch Jupyter using command-line:
  jupyter notebook (Type on command line)
