@@ -8,6 +8,12 @@
 
  2. python -m pip install jupyter
  
+ * install pandas,numpy library
+ 
+ 1. pip install pandas
+ 
+ 2. pip install numpy
+ 
  #### launch Jupyter using command-line:
  jupyter notebook (Type on command line)
 
